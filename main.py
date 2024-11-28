@@ -4,8 +4,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from spotipy.oauth2 import SpotifyOAuth
 
-CLIENT_ID = "d35acb3f4dce46e88c925a2ed1e99e53"
-CLIENT_SECRET = "ad7bd656fe5440b094a68461c456286b"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 URL_REDIRECT = "http://example.com"
 
 # ---------------------------------- Get Billboard Top 100 Songs & Artists -------------------------------------------
